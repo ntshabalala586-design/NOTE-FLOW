@@ -2,7 +2,7 @@ workflows:
   not-flow-android:
     name: Not Flow Android
     max_build_duration: 60
-    instance_type: linux
+    instance_type: mac_mini_m2
 
     environment:
       java: 17
