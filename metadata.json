@@ -1,0 +1,6 @@
+{
+  "name": "Note Flow",
+  "description": "A comprehensive notes, grocery planning, shopping trips, reminders, and calendar Android application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
